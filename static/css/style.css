@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(orangered, firebrick);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+.jumbotron {
+  background: none
+}
